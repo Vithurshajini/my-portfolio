@@ -139,10 +139,12 @@ function App() {
               troubleshooting issues.
             </p>
             <p>
-              My experience includes working with CMS and ATM-related applications,
-              document management solutions, and workflow platforms. I'm always keen to
-              explore new technologies, strengthen my engineering skills, and collaborate
-              on meaningful products.
+              My experience includes developing and enhancing web applications,
+              working with document management solutions, and contributing to
+              workflow-based systems. I'm passionate about exploring new technologies,
+              continuously strengthening my engineering skills, solving technical
+              challenges, and collaborating with teams to build meaningful
+              software solutions.
             </p>
             <div className="about-tags"><span>Continuous learning</span><span>Team collaboration</span><span>Problem solving</span></div>
           </div>
